@@ -1,8 +1,0 @@
-apple
-tomato
-banana
-orange
-apricot
-raspberry
-kiwi
-pear
