@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*
-
 import operator
 import Levenshtein
 from .exceptions import NoResultException
