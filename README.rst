@@ -20,7 +20,7 @@ Usage
 Installation
 ------------
 
-The tool works with Python 2 and Python 3. It can be installed with `Pip` :
+The tool works with and Python 3. It can be installed with `Pip` :
 
 ::
 
