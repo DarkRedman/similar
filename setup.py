@@ -8,7 +8,7 @@ readme = open('README.rst').read()
 
 setup(
     name="similar",
-    version="0.2",
+    version="1.0.0",
     url='http://github.com/ncrocfer/similar',
     author='Nicolas Crocfer',
     author_email='ncrocfer@gmail.com',
@@ -24,11 +24,12 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.2',
-        'Programming Language :: Python :: 3.3',
-        'Programming Language :: Python :: 3.4'
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
+        'Programming Language :: Python :: 3.13',
+        'Programming Language :: Python :: 3.14'
     ),
+    python_requires=">=3.10",
 )
